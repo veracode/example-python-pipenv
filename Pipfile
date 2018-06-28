@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+rsa = "==3.4"
+requests = "==2.2.1"
+feedparser = "==5.1.1"
+pycrypto = "==2.4"
+Django = "==1.7.1"
+PyJWT = "==0.4.2"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"
