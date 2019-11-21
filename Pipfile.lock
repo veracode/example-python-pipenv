@@ -40,12 +40,13 @@
             ],
             "version": "==0.4.3"
         },
-        "pycrypto": {
+        "pycryptodome": {
             "hashes": [
-                "sha256:f49d8aea2d7d65db9906c7d3b8b3a07fcae8387cf5cb06a7510383e211902d39"
+                "sha256:dbeb08ad850056747aa7d5f33273b7ce0b9a77910604a1be7b7a6f2ef076213f",
+				"sha256:d7be60dc2126ee350ac7191549f5ab05c2dd76a5d5a3022249f395a401c6ea37"
             ],
             "index": "pypi",
-            "version": "==2.4"
+            "version": "==3.9"
         },
         "pyjwt": {
             "hashes": [
