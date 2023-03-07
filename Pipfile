@@ -6,7 +6,7 @@ name = "pypi"
 [packages]
 rsa = "==3.4"
 requests = "==2.2.1"
-feedparser = "==5.1.1"
+feedparser = "==6.0.8"
 pycrypto = "==2.4"
 Django = "==1.7.1"
 PyJWT = "==0.4.2"
